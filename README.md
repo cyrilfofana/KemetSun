@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KemetSun
-- 👀 I’m interested in Graphic Design, Data Science and Machine Learning 
-- 🌱 I’m currently learning C++, Python and Javascript
+- 👋 Hi, I’m @CyrilFofana
+- 👀 I’m interested in Data Analytics, Data Science and Machine Learning 
+- 🌱 I’m currently learning C++, Python, SQL, Excel and Javascript
 - 💞️ I’m looking to collaborate on future regarding Python, C++ and Javascript
 - 📫 How to reach me <through here>
 
