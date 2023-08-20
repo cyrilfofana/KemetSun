@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CyrilFofana
-- 👀 I’m interested in Data Analytics, Data Science and Machine Learning 
-- 🌱 I’m currently learning C++, Python, SQL, Excel and Javascript
-- 💞️ I’m looking to collaborate on future regarding Python, C++ and Javascript
+- 👀 I’m interested in Data Analytics & Data Science and Machine Learning 
+- 🌱 I’m currently learning Python, SQL, Excel and Javascript
+- 💞️ I’m looking to collaborate on future regarding Python, Excel and SQL
 - 📫 How to reach me <through here>
 
 <!---
